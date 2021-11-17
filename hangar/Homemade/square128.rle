@@ -1,0 +1,11 @@
+#square with size 128, whatelz.
+#by Nikhil Reddy
+x = 128, y = 128, rule = B3/S2,3
+128o$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$
+o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$
+o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$
+o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$
+o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$
+o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$
+o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$
+o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$o126bo$128o!
